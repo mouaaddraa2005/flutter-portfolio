@@ -21,22 +21,32 @@ I am a passionate Flutter developer focused on building modern, scalable, and us
 
 ---
 
-### 📖 Quran App
+## 📖 Quran App
 
 <p align="center">
-  <img src="assets/quran-app/1.png" width="250"/>
-  <img src="assets/quran-app/2.png" width="250"/>
+  <img src="assets/quran-app/1.png" width="260"/>
+  <img src="assets/quran-app/2.png" width="260"/>
 </p>
 
-**Description:**
-- Quran reading experience with clean UI  
-- Audio playback with reciters  
-- Smooth navigation between Surahs  
+### ✨ Overview
+A modern Quran mobile application designed to provide a smooth and spiritual user experience with clean UI and powerful features.
 
-**Tech Used:**
-- Flutter  
-- Audio Service  
-- State Management  
+### 🚀 Features
+- 📖 Read the Holy Quran بسهولة  
+- 🎧 Listen to multiple reciters  
+- 🌙 Dark mode optimized UI  
+- 📿 Azkar (Adhkar) section included  
+- ⚡ Smooth and responsive performance  
+
+### 🛠️ Tech Stack
+- Flutter & Dart  
+- Audio Service Integration  
+- State Management (Provider)  
+
+### 🎯 Highlights
+- Clean and modern UI design  
+- Focus on user experience  
+- Structured and scalable code  
 
 ---
 
