@@ -55,6 +55,7 @@ A modern Quran mobile application designed to provide a smooth and spiritual use
 <p align="center">
   <img src="assets/healthcare-app/1.png" width="250"/>
   <img src="assets/healthcare-app/2.png" width="250"/>
+  <img src="assets/healthcare-app/3.png" width="250"/>
 </p>
 
 **Description:**
