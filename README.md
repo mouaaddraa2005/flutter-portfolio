@@ -24,8 +24,8 @@ I am a passionate Flutter developer focused on building modern, scalable, and us
 ## 📖 Quran App
 
 <p align="center">
-  <img src="assets/quran-app/1.png" width="260"/>
-  <img src="assets/quran-app/2.png" width="260"/>
+  <img src="assets/quran-app/home.png" width="260"/>
+  <img src="assets/quran-app/azkar.png" width="260"/>
 </p>
 
 ### ✨ Overview
