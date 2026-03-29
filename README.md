@@ -75,6 +75,7 @@ A modern Quran mobile application designed to provide a smooth and spiritual use
 <p align="center">
   <img src="assets/event-app/1.png" width="250"/>
   <img src="assets/event-app/2.png" width="250"/>
+  <img src="assets/event-app/3.png" width="250"/>
 </p>
 
 **Description:**
